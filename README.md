@@ -62,4 +62,5 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=5PJVA2SXUVK8C&no_recurring=1&item_name=Buy+me+a+pastry%21&currency_code=BRL) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM & Profile Readme Generator ( https://gprm.itsvg.in | https://profile-readme-generator.com/ ) -->
+
