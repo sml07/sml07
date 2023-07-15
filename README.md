@@ -1,20 +1,59 @@
 # 💫 About Me:
-I'm a Mobile Developer, I've been studying and working for 2 months with cross-platform apps with Flutter.<br>And as a hobby (when I have time), I like to practice applications with C++ and Rust. In addition to photography and editing! :)<br>Nice to meet you~<br>
+<img align="right" height="200" src="https://i.imgur.com/ozdnvGi.png"  />
 
+<p align="center">I'm a Mobile Developer, and my specialization is cross-platform app development with Flutter.<br>And as a hobby (when I have time), I like to practice applications with C++. In addition to photography, editing and studying astronomy <3 !<br>I'm doing a bachelor's degree at Estácio University Center in Computer Science because I've had the dream since I was a child to work with technology and be a great person using it.<br>Nice to meet you~ :)</p>
+
+<br clear="both">
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sannyc_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barbosa20) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samuelbs777) 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  <a href="https://linkedin.com/in/samuel-barbosa20" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/samuelbs777" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@sannyc_&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 # 💻 Tech Stack:
 ### 🖊️ Languages
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) 
+<div align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
+</div>
+
 ### 📚 Libs/Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=black&style=for-the-badge" height="40" alt="qt logo"  />
+</div>
+
 ### 🧰 Miscellaneous
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="40" alt="trello logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo"  />
+</div>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sml07&theme=swift&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sml07&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sml07&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=true&order=1&custom_title=Status" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sml07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=graywhite&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sml07&icon=6&color=12)](https://visitcount.itsvg.in)
