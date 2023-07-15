@@ -1,7 +1,7 @@
 # 💫 About Me:
-<img align="right" height="200" src="https://i.imgur.com/ozdnvGi.png"  />
+<img align="right" height="200" src="https://i.imgur.com/pI1MT5p.png"  />
 
-<p align="center">I'm a Mobile Developer, and my specialization is cross-platform app development with Flutter.<br>And as a hobby (when I have time), I like to practice applications with C++. In addition to photography, editing and studying astronomy <3 !<br>I'm doing a bachelor's degree at Estácio University Center in Computer Science because I've had the dream since I was a child to work with technology and be a great person using it.<br>Nice to meet you~ :)</p>
+<p align="center">I'm a Mobile Developer, and my specialization is cross-platform app development with Flutter.<br>And as a hobby (when I have time), I like to practice applications with C++. In addition to photography, editing and studying astronomy <3 !</p><p align="center"><br>I'm doing a bachelor's degree at Estácio University Center in Computer Science because I've had the dream since I was a child to work with technology and be a great person using it.<br>Nice to meet you~ :)</p>
 
 <br clear="both">
 
