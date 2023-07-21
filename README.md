@@ -17,7 +17,7 @@
   </a>
 </div>
 
-# 💻 Tech Stack:
+# 💻 Langs:
 ### 🖊️ Languages
 <div align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
 </div>
 
-### 📚 Libs/Frameworks
+### 📚 Tech Stacks
 <div align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
   <img width="1" />
