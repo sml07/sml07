@@ -3,7 +3,7 @@
 ### 
 <img align="right" height="200" src="https://i.imgur.com/pI1MT5p.png"  />
 
-<p align="center">I'm a Mobile Developer, and my specialization is cross-platform app development with Flutter.<br>I am always open to learning new technologies and adapting myself, as I like to practice programming with other Langs, such as C/C++ and C#.</p><p align="center"><br>I'm doing a bachelor's degree at Estácio University Center in Computer Science because I've had the dream since I was a child to work with technology and be a great person using it.<br>Nice to meet you~ :)</p>
+<p align="center">I'm a Mobile Developer, and my specialization is cross-platform app development with Flutter.<br>I am always open to learning new technologies and adapting myself, as I like to practice programming with other Langs, such as C and C#.</p><p align="center"><br>I'm doing a bachelor's degree at Estácio University Center in Computer Science because I've had the dream since I was a child to work with technology and be a great person using it.<br>Nice to meet you~ :)</p>
 
 <br clear="both">
 <h1 align="center">🌐 Socials</h1>
@@ -40,10 +40,6 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
