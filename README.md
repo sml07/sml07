@@ -3,7 +3,7 @@
 ### 
 <img align="right" height="200" src="https://i.imgur.com/pI1MT5p.png"  />
 
-<p align="center">I'm a Mobile Developer, and my specialization is cross-platform app development with Flutter.<br>I am always open to learning new technologies and adapting myself, as I like to practice programming with other Langs, such as C and C#.</p><p align="center"><br>I'm doing a bachelor's degree at Estácio University Center in Computer Science because I've had the dream since I was a child to work with technology and be a great person using it.<br>Nice to meet you~ :)</p>
+<p align="center">I'm a Mobile Developer, and my specialization is cross-platform app development with Flutter.<br>I am always open to learning new technologies and adapting myself, as I like to practice programming with other Langs, such as C/C++.</p><p align="center"><br>I'm doing a bachelor's degree at Estácio University Center in Computer Science because I've had the dream since I was a child to work with technology and be a great person using it.<br>Nice to meet you~ :)</p>
 
 <br clear="both">
 <h1 align="center">🌐 Socials</h1>
