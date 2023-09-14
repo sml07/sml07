@@ -2,7 +2,7 @@
 
 ### 
 
-<p align="center">Bacharel em Ciência da Computação pela Universidade Estácio.<br>Estudando e trabalhando com desenvolvimento Back-End, banco de dados e outras stacks.</p>
+<p align="center">Bacharel em Ciência da Computação pela Universidade Estácio.<br>Estudando e trabalhando com desenvolvimento Back-End.</p>
 <h1 align="center">🌐 Socials</h1>
 
 ###
@@ -22,13 +22,9 @@
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="15" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
